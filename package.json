@@ -1,0 +1,14 @@
+
+{
+  "name": "solo-leveling-xmd",
+  "version": "1.0.0",
+  "description": "Solo Leveling WhatsApp bot using Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "@hapi/boom": "^10.0.0"
+  }
+}

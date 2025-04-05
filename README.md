@@ -1,1 +1,1 @@
-# solo-leveling-xmd
+# Solo Leveling XMD Bot\n\nInspired by the Solo Leveling anime. This bot includes a level system, command menu, and is deployable on Render for free.\n
